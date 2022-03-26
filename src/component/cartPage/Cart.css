@@ -1,0 +1,9 @@
+.cartItem {
+	background-color: chocolate;
+	color: white;
+	margin: 10px 78px;
+	padding: 8px;
+}
+.cartItem img {
+	margin-right: 8px;
+}

@@ -1,6 +1,6 @@
 import React from 'react';
 
-const Product = ({ product }) => {
+const Product = ({ clickHendler, product }) => {
 	const { id, name, price, img } = product;
 	return (
 		<div>
@@ -8,7 +8,7 @@ const Product = ({ product }) => {
 			<h4>id: {id}</h4>
 			<h4>name: {name}</h4>
 			<h4>Price: {price}</h4>
-			{/* <button onClick={() => clickHendler(product)}>ClickME</button> */}
+			<button onClick={() => clickHendler(product)}>ClickME</button>
 		</div>
 	);
 };
