@@ -1,0 +1,75 @@
+[
+    {
+        "id":"11121314",
+        "name":"monitor1",
+        "price":"6000",
+        "img":"img/moni1.JPG"
+
+    },    {
+        "id":"15161718",
+        "name":"monitor1",
+        "price":"5000",
+        "img":"img/moni2.JPG"
+
+    },    {
+        "id":"1920212223",
+        "name":"monitor1",
+        "price":"6000",
+        "img":"img/moni3.JPG"
+
+    },    {
+        "id":"24252627",
+        "name":"monitor1",
+        "price":"5000",
+        "img":"img/moni4.JPG"
+
+    },    {
+        "id":"28293031",
+        "name":"monitor1",
+        "price":"6000",
+        "img":"img/moni5.JPG"
+
+    },    {
+        "id":"32333435",
+        "name":"monitor1",
+        "price":"5000",
+        "img":"img/moni6.JPG"
+
+    },    {
+        "id":"36373839",
+        "name":"monitor1",
+        "price":"6000",
+        "img":"img/moni7.JPG"
+
+    },    {
+        "id":"40414243",
+        "name":"monitor1",
+        "price":"5000",
+        "img":"img/moni8.JPG"
+
+    },    {
+        "id":"44454647",
+        "name":"monitor1",
+        "price":"6000",
+        "img":"img/moni9.JPG"
+
+    },    {
+        "id":"48495051",
+        "name":"monitor1",
+        "price":"5000",
+        "img":"img/moni10.JPG"
+
+    },    {
+        "id":"52535455",
+        "name":"monitor1",
+        "price":"6000",
+        "img":"img/moni11.JPG"
+
+    },    {
+        "id":"56575859",
+        "name":"monitor1",
+        "price":"5000",
+        "img":"img/moni12.JPG"
+
+    }
+]
