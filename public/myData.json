@@ -1,75 +1,75 @@
 [
     {
         "id":"11121314",
-        "name":"monitor1",
+        "name":"HP M10 LED",
         "price":"6000",
-        "img":"img/moni1.JPG"
+        "img":"img/moni12.JPG"
 
     },    {
         "id":"15161718",
-        "name":"monitor1",
+        "name":"HP XA LCD",
         "price":"5000",
         "img":"img/moni2.JPG"
 
     },    {
         "id":"1920212223",
-        "name":"monitor1",
+        "name":"DELL P9 LED",
         "price":"6000",
         "img":"img/moni3.JPG"
 
     },    {
         "id":"24252627",
-        "name":"monitor1",
+        "name":"DELL G1 LCD",
         "price":"5000",
         "img":"img/moni4.JPG"
 
     },    {
         "id":"28293031",
-        "name":"monitor1",
+         "name":"DELL E0 LCD",
         "price":"6000",
         "img":"img/moni5.JPG"
 
     },    {
         "id":"32333435",
-        "name":"monitor1",
+        "name":"Samsung Y9 LCD",
         "price":"5000",
         "img":"img/moni6.JPG"
 
     },    {
         "id":"36373839",
-        "name":"monitor1",
+        "name":"Samsung Z8 LED",
         "price":"6000",
         "img":"img/moni7.JPG"
 
     },    {
         "id":"40414243",
-        "name":"monitor1",
+        "name":"Walton W4 LED",
         "price":"5000",
         "img":"img/moni8.JPG"
 
     },    {
         "id":"44454647",
-        "name":"monitor1",
+        "name":"Walton W2 LCD",
         "price":"6000",
         "img":"img/moni9.JPG"
 
     },    {
         "id":"48495051",
-        "name":"monitor1",
+        "name":"Acer H6 LED",
         "price":"5000",
         "img":"img/moni10.JPG"
 
     },    {
         "id":"52535455",
-        "name":"monitor1",
+       "name":"Acer T7 LCD",
         "price":"6000",
         "img":"img/moni11.JPG"
 
     },    {
         "id":"56575859",
-        "name":"monitor1",
+        "name":"Benq E4 LCD",
         "price":"5000",
-        "img":"img/moni12.JPG"
+        "img":"img/moni1.JPG"
 
     }
 ]
