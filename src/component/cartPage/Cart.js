@@ -6,11 +6,11 @@ const Cart = ({ cart, emptyCart, ChooseOne, ran, buttonClicked, genRandom }) => 
 			{/* display cart data */}
 			{cart.map(dat => (
 				<div key={dat.id} className='cartItem'>
-					<img className='rounded-circle' src={dat.img} alt='' width='60px' height='55px' />
+					<img className='rounded' src={dat.img} alt='' width='60px' height='55px' />
 					<span>{dat.name}</span>
 				</div>
 			))}
-			<button className='btn btn-primary btn-lg btn-block' onClick={emptyCart}>
+			<button className='btn btn-primary btn-lg btn-block mb-2' onClick={emptyCart}>
 				Remove all
 			</button>
 			<br></br>
@@ -21,10 +21,10 @@ const Cart = ({ cart, emptyCart, ChooseOne, ran, buttonClicked, genRandom }) => 
 					<span>{cart[ran].name}</span>
 				</div>
 			) : (
-				<span>not found</span>
+				<span></span>
 			)}
 			<br></br>
-			<button className='btn btn-primary' onClick={() => genRandom()}>
+			<button className='btn btn-primary mb-2' onClick={() => genRandom()}>
 				Choose 1 for me
 			</button>
 		</div>

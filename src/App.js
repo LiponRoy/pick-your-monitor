@@ -4,7 +4,7 @@ import MainPage from './component/mainPage/MainPage';
 
 function App() {
 	return (
-		<div className='App'>
+		<div className='App container'>
 			<MainPage></MainPage>
 		</div>
 	);

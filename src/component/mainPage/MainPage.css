@@ -1,0 +1,15 @@
+.QA {
+	background-color: rgb(93, 93, 240);
+	color: white;
+	padding: 5px;
+}
+.pera {
+	font-size: 19px;
+	font-weight: 700;
+}
+.Question-answers {
+	text-align: start;
+}
+.paragraph {
+	padding-right: 120px;
+}

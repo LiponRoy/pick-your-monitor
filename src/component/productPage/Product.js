@@ -1,5 +1,6 @@
 import React from 'react';
 import './Product.css';
+import { BsFillCartCheckFill } from 'react-icons/bs';
 const Product = ({ clickHendler, product }) => {
 	// getting all product props
 	const { id, name, price, img } = product;
@@ -16,7 +17,7 @@ const Product = ({ clickHendler, product }) => {
 				</div>
 				{/* add to cart button */}
 				<button className='btn btn-primary ProductBtn' onClick={() => clickHendler(product)}>
-					Add to Cart
+					Add to Cart<BsFillCartCheckFill className='cartIcon'></BsFillCartCheckFill>
 				</button>
 			</div>
 		</div>
