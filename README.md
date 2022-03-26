@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Pick Your Monitor
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+My Private Repo Link :(https://musical-sprite-62cf1f.netlify.app/).
 
 ## Available Scripts
 

@@ -1,7 +1,10 @@
 .MyNavBar {
 	background-color: rgb(93, 93, 240);
-	height: 50px;
+	height: 60px;
 	align-items: center;
 	color: white;
+
 	margin-bottom: 16px;
+	margin-top: 6px;
+	/* padding: 20px; */
 }

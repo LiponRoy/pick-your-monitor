@@ -11,9 +11,9 @@ const Product = ({ clickHendler, product }) => {
 				<img src={img} alt='' width='200px' />
 				{/* product text */}
 				<div className='allText'>
-					<span>id: {id}</span>
-					<span>name: {name}</span>
+					<span>{name}</span>
 					<span>Price: {price}</span>
+					<span>id: {id}</span>
 				</div>
 				{/* add to cart button */}
 				<button className='btn btn-primary ProductBtn' onClick={() => clickHendler(product)}>
